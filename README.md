@@ -1,3 +1,4 @@
 # Dicee Game
-The Complete 2022 Web Development Bootcamp derslerinde HTML, CSS ve Javascript kullanarak yaptığımız basit bir zar oyunudur. İki oyuncu ile oynanan, sayfa her yenilendiğinde yüksek zarı atanın kazandığı bir oyundur.
-HTML dökümanına link vererek external CSS ve external Script yöntemi kullanılmıştır.
+It is a simple dice game we made using HTML, CSS and Javascript in Complete Web Development Bootcamp lessons with Angela Yu.
+It is a game played with two players and the one who rolls the highest dice wins, when the page is refreshed.
+External CSS and external Script methods were used by linking to the HTML document.
